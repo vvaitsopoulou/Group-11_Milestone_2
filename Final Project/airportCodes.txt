@@ -1,0 +1,50 @@
+1,LHR,London
+2,CDG,Paris
+3,AMS,Amsterdam
+4,FRA,Frankfurt
+5,MAD,Madrid
+6,BCN,Barcelona
+7,FCO,Rome
+8,IST,Istanbul
+9,VIE,Vienna
+10,BRU,Brussels
+11,ZRH,Zurich
+12,CPH,Copenhagen
+13,ARN,Stockholm
+14,OSL,Oslo
+15,HEL,Helsinki
+16,DUB,Dublin
+17,WAW,Warsaw
+18,PRG,Prague
+19,BUD,Budapest
+20,ATH,Athens
+21,LIS,Lisbon
+22,OTP,Bucharest
+23,SOF,Sofia
+24,BEG,Belgrade
+25,ZAG,Zagreb
+26,SJJ,Sarajevo
+27,TGD,Podgorica
+28,SKP,Skopje
+29,TIR,Tirana
+30,RIX,Riga
+31,TLL,Tallinn
+32,VNO,Vilnius
+33,LED,Saint Petersburg
+34,SVO,Moscow
+35,DME,MoscowMetroArea
+36,JFK,New York
+37,LAX,Los Angeles
+38,ORD,Chicago
+39,ATL,Atlanta
+40,DFW,Dallas/Fort Worth
+41,HND,Tokyo
+42,NRT,Tokyo
+43,DXB,Dubai
+44,SIN,Singapore
+45,HKG,Hong Kong
+46,SYD,Sydney
+47,MEL,Melbourne
+48,GRU,São Paulo
+49,EZE,Buenos Aires
+50,SKG,Thessaloniki
